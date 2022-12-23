@@ -1,8 +1,18 @@
+/* per bordi */
+[class*="col-"] {
+    background-color: aqua;
+    border: 1px solid white;
+    text-align: center;
+    color: white;
+}
+
 .row {
     display: flex;
     flex-wrap: wrap;
     flex-direction: row;
     align-items: stretch;
+    height: 2rem;
+
 }
 
 /* col  */
