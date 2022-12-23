@@ -4,6 +4,7 @@
     border: 1px solid white;
     text-align: center;
     color: white;
+    padding: 1rem;
 }
 
 .row {
@@ -11,7 +12,6 @@
     flex-wrap: wrap;
     flex-direction: row;
     align-items: stretch;
-    height: 2rem;
 
 }
 
